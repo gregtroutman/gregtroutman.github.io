@@ -1,14 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
 
-.image {
-	padding: 0;
-    display: block;
-    margin: 0 auto;
-    max-height: 99%;
-    max-width: 99%;
-}
-
 @-moz-keyframes spinner {
 	0% {
 		-moz-transform: rotate(0deg);
